@@ -10,4 +10,5 @@ target 'bitcoinTracker' do
 
 	pod 'SwiftyJSON'
 	pod 'Alamofire'
+	pod 'AlamofireImage'
 end
